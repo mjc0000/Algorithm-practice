@@ -4,75 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3325663-3ca6-4f50-8347-0b4c55528570" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/练题.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新方法/二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新方法/二叉树源码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新方法/进度条.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试/字典与集合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试/数组测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/玩/爬天气.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/玩/爬虫  豆瓣top 250.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/玩/爬虫爬名言警句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/玩/爬虫爬哪吒.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/玩/爬虫练习网站专用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/玩/猫眼top250.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/7-2 小游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/Python猜数游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/sdut-统计工龄.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/三数之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/三角判断.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/买卖股票的最佳时机 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/删除有序数组中的重复项 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/删除有序数组中的重复项.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/加一.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/单词规律.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/合并两个有序数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/同构字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/回文数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/复杂/制造字典.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/复杂/学号翻译.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/多数元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/字母异位词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/岛屿数量（二叉树题目）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/币值转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/打印田字格.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/整数各位的数字之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/旋转矩阵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/最大子数组和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/最小栈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/最长的公共前缀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/有效括号（栈）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/朋友圈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/朋友圈1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/检查3x3子宫数独成立性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/每日温度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/烂橘子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/爬楼梯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/环形链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/用哈希表求三数字和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/盛水最多的容器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/相交链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/矩阵置零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/移动零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/移除元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/统计各行业就业的学生数量，按数量从高到低方式输出。.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/考研通过.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/计算乘法,整除求,余数的表达式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/评分.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/词频统计-基础题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/赎金信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/跳跃游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/轮转数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/阶乘后的零.py" afterDir="false" />
+    <list default="true" id="f3325663-3ca6-4f50-8347-0b4c55528570" name="更改" comment="2025年5月26日21:32:06">
+      <change afterPath="$PROJECT_DIR$/练题/H指数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/O(1) 时间插入、删除和获取随机元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/Z 字形变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/两数相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/位1的个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/反转字符串中的单词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/合并两个有序链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/除自身以外数组的乘积.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/颠倒二进制位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mjc0000&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mjc0000/Algorithm-practice.git&quot;,
+    &quot;accountId&quot;: &quot;d8a2a6cf-c149-4448-9e14-68e3b8f4e578&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -103,50 +57,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.7-2 小游戏.executor": "Run",
-    "Python.Python猜数游戏.executor": "Run",
-    "Python.sdut-统计工龄.executor": "Run",
-    "Python.三数之和.executor": "Run",
-    "Python.三角判断.executor": "Run",
-    "Python.二叉树.executor": "Run",
-    "Python.二叉树源码.executor": "Run",
-    "Python.制造字典.executor": "Run",
-    "Python.多数元素.executor": "Run",
-    "Python.字典与集合.executor": "Run",
-    "Python.字母异位词.executor": "Run",
-    "Python.学号翻译.executor": "Run",
-    "Python.币值转换.executor": "Run",
-    "Python.打印田字格.executor": "Run",
-    "Python.数组测试.executor": "Run",
-    "Python.整数给为的数字之和.executor": "Run",
-    "Python.最大子数组和.executor": "Run",
-    "Python.最长的公共前缀.executor": "Run",
-    "Python.朋友圈.executor": "Run",
-    "Python.朋友圈1.executor": "Run",
-    "Python.爬天气.executor": "Run",
-    "Python.爬虫爬名言警句.executor": "Run",
-    "Python.爬虫爬哪吒.executor": "Run",
-    "Python.爬虫练习网站专用.executor": "Run",
-    "Python.猫眼top250.executor": "Run",
-    "Python.用哈希表求三数字和.executor": "Run",
-    "Python.统计各行业就业的学生数量，按数量从高到低方式输出。.executor": "Run",
-    "Python.考研通过.executor": "Run",
-    "Python.计算乘法,整除求,余数的表达式.executor": "Run",
-    "Python.评分.executor": "Run",
-    "Python.词频统计-基础题.executor": "Run",
-    "Python.进度条.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/1/新建文件夹/4",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-2 小游戏.executor&quot;: &quot;Run&quot;,
+    &quot;Python.H指数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Python猜数游戏.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sdut-统计工龄.executor&quot;: &quot;Run&quot;,
+    &quot;Python.三数之和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.三角判断.executor&quot;: &quot;Run&quot;,
+    &quot;Python.二叉树.executor&quot;: &quot;Run&quot;,
+    &quot;Python.二叉树源码.executor&quot;: &quot;Run&quot;,
+    &quot;Python.制造字典.executor&quot;: &quot;Run&quot;,
+    &quot;Python.多数元素.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典与集合.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字母异位词.executor&quot;: &quot;Run&quot;,
+    &quot;Python.学号翻译.executor&quot;: &quot;Run&quot;,
+    &quot;Python.币值转换.executor&quot;: &quot;Run&quot;,
+    &quot;Python.打印田字格.executor&quot;: &quot;Run&quot;,
+    &quot;Python.数组测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python.整数给为的数字之和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.最大子数组和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.最长的公共前缀.executor&quot;: &quot;Run&quot;,
+    &quot;Python.朋友圈.executor&quot;: &quot;Run&quot;,
+    &quot;Python.朋友圈1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.爬天气.executor&quot;: &quot;Run&quot;,
+    &quot;Python.爬虫爬名言警句.executor&quot;: &quot;Run&quot;,
+    &quot;Python.爬虫爬哪吒.executor&quot;: &quot;Run&quot;,
+    &quot;Python.爬虫练习网站专用.executor&quot;: &quot;Run&quot;,
+    &quot;Python.猫眼top250.executor&quot;: &quot;Run&quot;,
+    &quot;Python.用哈希表求三数字和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.统计各行业就业的学生数量，按数量从高到低方式输出。.executor&quot;: &quot;Run&quot;,
+    &quot;Python.考研通过.executor&quot;: &quot;Run&quot;,
+    &quot;Python.计算乘法,整除求,余数的表达式.executor&quot;: &quot;Run&quot;,
+    &quot;Python.评分.executor&quot;: &quot;Run&quot;,
+    &quot;Python.词频统计-基础题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.进度条.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/1/新建文件夹/4&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="爬虫爬哪吒" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="练题" />
@@ -195,9 +150,33 @@
       <workItem from="1746762676337" duration="159000" />
       <workItem from="1747711359050" duration="40000" />
     </task>
+    <task id="LOCAL-00001" summary="2025年5月26日21:32:06">
+      <option name="closed" value="true" />
+      <created>1748266336912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748266336912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2025年5月26日21:32:06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025年5月26日21:32:06" />
   </component>
 </project>
