@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3325663-3ca6-4f50-8347-0b4c55528570" name="更改" comment="2025年5月27日16:55:29">
-      <change afterPath="$PROJECT_DIR$/练题/leetcood/二分查找/寻找峰值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/leetcood/二分查找/搜索二位矩阵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/leetcood/二分查找/搜索插入位置.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练题/leetcood/二叉树/从前序与中序遍历序列构造二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练题/leetcood/区间/汇总区间.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748336135907</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2025年5月27日16:55:29">
+      <option name="closed" value="true" />
+      <created>1748425223564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748425223564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2025年5月27日16:55:29">
+      <option name="closed" value="true" />
+      <created>1748425303700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748425303700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
